@@ -29,3 +29,10 @@ cd blanja-app-be
 npm i
 nodemon app
 ```
+## Related Project
+
+- [`Frontend Recipe Food`](https://github.com/MuhammadSonySetiawan/hirejob)
+
+- [`Backend Recipe Food`](https://github.com/MuhammadSonySetiawan/hire_job_be)
+
+- [`Demo Recipe Food`](https://hire-job.onrender.com/)
