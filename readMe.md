@@ -35,4 +35,6 @@ nodemon app
 
 - [`Backend Recipe Food`](https://github.com/MuhammadSonySetiawan/hire_job_be)
 
-- [`Demo Recipe Food`](https://hire-job.onrender.com/)
+- [`Demo Recipe Food Frontend`](https://hirejob-ep6k.vercel.app/)
+
+- [`Demo Recipe Food Backend`](https://hire-job.onrender.com/)
