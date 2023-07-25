@@ -25,7 +25,7 @@ hire_job_be App Back-End uses a number of open source projects to work properly:
 hire_job_be App Back-End requires [Node.js](https://nodejs.org/) v10+ to run.
 
 ```sh
-cd blanja-app-be
+cd hire_job_be
 npm i
 nodemon app
 ```
