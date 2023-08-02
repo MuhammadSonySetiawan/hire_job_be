@@ -31,10 +31,12 @@ nodemon app
 ```
 ## Related Project
 
-- [`Frontend Recipe Food`](https://github.com/MuhammadSonySetiawan/hirejob)
+- [`Frontend hire_job`](https://github.com/MuhammadSonySetiawan/hirejob)
 
-- [`Backend Recipe Food`](https://github.com/MuhammadSonySetiawan/hire_job_be)
+- [`Backend hire_job`](https://github.com/MuhammadSonySetiawan/hire_job_be)
 
-- [`Demo Recipe Food Frontend`](https://hirejob-ep6k.vercel.app/)
+- [`Demo hire_job Frontend`](https://hirejob-ep6k.vercel.app/)
 
-- [`Demo Recipe Food Backend`](https://hire-job.onrender.com/)
+- [`Demo hire_job Backend`](https://hire-job.onrender.com/)
+
+- [`Demo Postmen hire_job Backend`](https://documenter.getpostman.com/view/8030404/2s93z5AR1G#86d9bd4b-bed8-41bf-8b96-f9e36d462a4b )
