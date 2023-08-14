@@ -31,11 +31,11 @@ nodemon app
 ```
 ## Related Project
 
-- [`Frontend hire_job`](https://github.com/MuhammadSonySetiawan/hirejob)
+- [`Frontend hire_job`](https://github.com/MuhammadSonySetiawan/Peworld)
 
 - [`Backend hire_job`](https://github.com/MuhammadSonySetiawan/hire_job_be)
 
-- [`Demo hire_job Frontend`](https://hirejob-ep6k.vercel.app/)
+- [`Demo hire_job Frontend`](https://peworld-lilac.vercel.app/)
 
 - [`Demo hire_job Backend`](https://hire-job.onrender.com/)
 
